@@ -1,3 +1,2 @@
 # Codewars-python
-Resolution of Kata´s Codewars challenges, using the language Python \n
-My profile: https://www.codewars.com/users/PePacheco
+Resolution of Kata´s Codewars challenges, using the language Python. My profile: https://www.codewars.com/users/PePacheco
