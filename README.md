@@ -1,2 +1,2 @@
 # Codewars-python
-Resolution of Codewars challenges, using the language Python
+Resolution of Kata´s Codewars challenges, using the language Python
